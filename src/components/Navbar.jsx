@@ -47,6 +47,9 @@ const Button = styled.button`
   font-weight: bold;
   border-radius: 10px;
   cursor: pointer;
+  &:hover {
+    background-color: red;
+  }
 `;
 const Navbar = () => {
   return (
