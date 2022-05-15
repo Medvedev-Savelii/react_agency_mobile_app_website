@@ -115,6 +115,7 @@ const Intro = () => {
       <Right>
         <Image src={Woman} />
       </Right>
+      <AnimatedShapes />
     </Container>
   );
 };
